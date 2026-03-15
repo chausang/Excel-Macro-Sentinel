@@ -1,0 +1,5 @@
+{
+  "name": "Excel Macro Sentinel",
+  "description": "Professional utility for analyzing Excel file structures and safely removing VBA macros.",
+  "requestFramePermissions": []
+}
